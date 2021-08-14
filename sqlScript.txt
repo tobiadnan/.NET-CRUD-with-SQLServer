@@ -1,0 +1,28 @@
+USE [DbPerpus]
+GO
+
+/****** Object:  Table [dbo].[TblAnggota]    Script Date: 06/24/2021 09:58:24 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[TblAnggota](
+	[NoAngg] [varchar](10) NOT NULL,
+	[NmAngg] [varchar](30) NULL,
+	[AlmtAngg] [varchar](50) NULL,
+	[JnsKel] [varchar](1) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[NoAngg] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO

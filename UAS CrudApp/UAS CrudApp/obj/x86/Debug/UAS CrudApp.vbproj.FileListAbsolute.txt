@@ -1,0 +1,34 @@
+C:\Users\asus\AppData\Local\Temporary Projects\UAS CrudApp\bin\Debug\UAS CrudApp.exe.config
+C:\Users\asus\AppData\Local\Temporary Projects\UAS CrudApp\bin\Debug\UAS CrudApp.exe
+C:\Users\asus\AppData\Local\Temporary Projects\UAS CrudApp\bin\Debug\UAS CrudApp.pdb
+C:\Users\asus\AppData\Local\Temporary Projects\UAS CrudApp\bin\Debug\UAS CrudApp.xml
+C:\Users\asus\AppData\Local\Temporary Projects\UAS CrudApp\obj\x86\Debug\UAS_CrudApp.Form1.resources
+C:\Users\asus\AppData\Local\Temporary Projects\UAS CrudApp\obj\x86\Debug\UAS_CrudApp.Resources.resources
+C:\Users\asus\AppData\Local\Temporary Projects\UAS CrudApp\obj\x86\Debug\UAS CrudApp.vbproj.GenerateResource.Cache
+C:\Users\asus\AppData\Local\Temporary Projects\UAS CrudApp\obj\x86\Debug\UAS CrudApp.exe
+C:\Users\asus\AppData\Local\Temporary Projects\UAS CrudApp\obj\x86\Debug\UAS CrudApp.xml
+C:\Users\asus\AppData\Local\Temporary Projects\UAS CrudApp\obj\x86\Debug\UAS CrudApp.pdb
+C:\Users\asus\Documents\Visual Studio 2010\Projects\UAS Project\UAS CrudApp\UAS CrudApp\bin\Debug\UAS CrudApp.exe.config
+C:\Users\asus\Documents\Visual Studio 2010\Projects\UAS Project\UAS CrudApp\UAS CrudApp\obj\x86\Debug\UAS CrudApp.exe
+C:\Users\asus\Documents\Visual Studio 2010\Projects\UAS Project\UAS CrudApp\UAS CrudApp\obj\x86\Debug\UAS CrudApp.xml
+C:\Users\asus\Documents\Visual Studio 2010\Projects\UAS Project\UAS CrudApp\UAS CrudApp\obj\x86\Debug\UAS CrudApp.pdb
+C:\Users\asus\Documents\Visual Studio 2010\Projects\UAS Project\UAS CrudApp\UAS CrudApp\bin\Debug\UAS CrudApp.exe
+C:\Users\asus\Documents\Visual Studio 2010\Projects\UAS Project\UAS CrudApp\UAS CrudApp\bin\Debug\UAS CrudApp.pdb
+C:\Users\asus\Documents\Visual Studio 2010\Projects\UAS Project\UAS CrudApp\UAS CrudApp\bin\Debug\UAS CrudApp.xml
+C:\Users\asus\Documents\Visual Studio 2010\Projects\UAS Project\UAS CrudApp\UAS CrudApp\obj\x86\Debug\UAS_CrudApp.Resources.resources
+C:\Users\asus\Documents\Visual Studio 2010\Projects\UAS Project\UAS CrudApp\UAS CrudApp\obj\x86\Debug\UAS CrudApp.vbproj.GenerateResource.Cache
+C:\Users\asus\Documents\Visual Studio 2010\Projects\UAS Project\UAS CrudApp\UAS CrudApp\obj\x86\Debug\UAS_CrudApp.UASApp.resources
+E:\Teknik Informatika\SEMESTER 4\Pemerograman VB.NET\01-UAS-Tobi_201901251039\UAS Project\UAS CrudApp\UAS CrudApp\bin\Debug\UAS CrudApp.exe.config
+E:\Teknik Informatika\SEMESTER 4\Pemerograman VB.NET\01-UAS-Tobi_201901251039\UAS Project\UAS CrudApp\UAS CrudApp\obj\x86\Debug\UAS CrudApp.exe
+E:\Teknik Informatika\SEMESTER 4\Pemerograman VB.NET\01-UAS-Tobi_201901251039\UAS Project\UAS CrudApp\UAS CrudApp\obj\x86\Debug\UAS CrudApp.xml
+E:\Teknik Informatika\SEMESTER 4\Pemerograman VB.NET\01-UAS-Tobi_201901251039\UAS Project\UAS CrudApp\UAS CrudApp\obj\x86\Debug\UAS CrudApp.pdb
+E:\Teknik Informatika\SEMESTER 4\Pemerograman VB.NET\01-UAS-Tobi_201901251039\UAS CrudApp\UAS CrudApp\bin\Debug\UAS CrudApp.exe.config
+E:\Teknik Informatika\SEMESTER 4\Pemerograman VB.NET\01-UAS-Tobi_201901251039\UAS CrudApp\UAS CrudApp\obj\x86\Debug\UAS CrudApp.exe
+E:\Teknik Informatika\SEMESTER 4\Pemerograman VB.NET\01-UAS-Tobi_201901251039\UAS CrudApp\UAS CrudApp\obj\x86\Debug\UAS CrudApp.xml
+E:\Teknik Informatika\SEMESTER 4\Pemerograman VB.NET\01-UAS-Tobi_201901251039\UAS CrudApp\UAS CrudApp\obj\x86\Debug\UAS CrudApp.pdb
+E:\Teknik Informatika\SEMESTER 4\Pemerograman VB.NET\01-UAS-Tobi_201901251039\UAS CrudApp\UAS CrudApp\bin\Debug\UAS CrudApp.exe
+E:\Teknik Informatika\SEMESTER 4\Pemerograman VB.NET\01-UAS-Tobi_201901251039\UAS CrudApp\UAS CrudApp\bin\Debug\UAS CrudApp.pdb
+E:\Teknik Informatika\SEMESTER 4\Pemerograman VB.NET\01-UAS-Tobi_201901251039\UAS CrudApp\UAS CrudApp\bin\Debug\UAS CrudApp.xml
+E:\Teknik Informatika\SEMESTER 4\Pemerograman VB.NET\01-UAS-Tobi_201901251039\UAS CrudApp\UAS CrudApp\obj\x86\Debug\UAS_CrudApp.UASApp.resources
+E:\Teknik Informatika\SEMESTER 4\Pemerograman VB.NET\01-UAS-Tobi_201901251039\UAS CrudApp\UAS CrudApp\obj\x86\Debug\UAS_CrudApp.Resources.resources
+E:\Teknik Informatika\SEMESTER 4\Pemerograman VB.NET\01-UAS-Tobi_201901251039\UAS CrudApp\UAS CrudApp\obj\x86\Debug\UAS CrudApp.vbproj.GenerateResource.Cache
